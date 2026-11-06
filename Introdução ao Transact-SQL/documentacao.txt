@@ -1,0 +1,5 @@
+DOCUMENTAÇÃO OFICIAL:
+https://learn.microsoft.com/pt-br/sql/t-sql/language-reference?view=sql-server-ver16
+
+MELHOR DOCUMENTAÇÃO:
+https://www.w3schools.com/sql/

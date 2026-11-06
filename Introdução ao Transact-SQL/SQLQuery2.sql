@@ -1,0 +1,8 @@
+USE sis_compra
+
+CREATE TABLE tbl_vendas(
+	CODVENDA int NOT NULL
+	,VALORVENDA float NOT NULL
+	,VENDEDOR varchar(50) NOT NULL
+	,DATAVENDA date NOT NULL 
+);
